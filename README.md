@@ -21,11 +21,11 @@ ping_checker TARGET PING_TIMEOUT PING_INTERVAL PING_INTERVAL_FAILED PING_FAILED_
 
 Example
 --------
-`$ ./ping_checker 192.168.1.1 2 20 1 3 '/etc/init.d/ipsec restart'
+`$ ./ping_checker 192.168.1.1 2 20 1 3 '/etc/init.d/ipsec restart'``
 
 Crontab
 -------
-` @reboot /etc/scripts/ping_checker 192.168.1.1 2 20 1 3 '/etc/init.d/ipsec restart'
+` @reboot /etc/scripts/ping_checker 192.168.1.1 2 20 1 3 '/etc/init.d/ipsec restart'``
 
 
 
