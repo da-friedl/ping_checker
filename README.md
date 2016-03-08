@@ -1,6 +1,6 @@
 # ping_checker
 
-With ping_checker it is possible to check a targets (IP-adress) availability. If the target is not reachable, a given command will be executed.
+With ping_checker it is possible to check a targets (IP-address) availability. If the target is not reachable, a given command will be executed.
 
 Usage
 -----
@@ -35,6 +35,6 @@ Copyright (c) 2016 Daniel Friedlmaier &lt;daniel@friedlmaier.net&gt;
 
 Author
 ------
-Daniel Friedlmaier
-[http://www.friedlmaier.net](http://www.friedlmaier.net)
-[daniel@friedlmaier.net](mailto:daniel@friedlmaier.net)
+Daniel Friedlmaier<br/>
+[http://www.friedlmaier.net](http://www.friedlmaier.net)<br/>
+[daniel@friedlmaier.net](mailto:daniel@friedlmaier.net)<br/>
