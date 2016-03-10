@@ -1,6 +1,7 @@
 # ping_checker
 
-With ping_checker it is possible to check a targets (IP-address) availability. If the target is not reachable, a given command will be executed.
+With ping_checker it is possible to check a target's (IP-address) availability.
+If the target is not reachable after a customized time/error count, a given command will be executed.
 
 Usage
 -----
@@ -27,14 +28,20 @@ Crontab
 -------
 ` @reboot /etc/scripts/ping_checker 192.168.1.1 2 20 1 3 '/etc/init.d/ipsec restart'`
 
-
+Ruby Dependencies
+-------
+` gem install trollop ipaddress net-ping `
 
 Licensing
 ---------
 Copyright (c) 2016 Daniel Friedlmaier &lt;daniel@friedlmaier.net&gt;
+Copyright (c) 2016 Michael Peter &lt;supersu@rootknecht.net&gt;
 
 Author
 ------
 Daniel Friedlmaier<br/>
 [http://www.friedlmaier.net](http://www.friedlmaier.net)<br/>
 [daniel@friedlmaier.net](mailto:daniel@friedlmaier.net)<br/>
+Michael Peter<br/>
+[http://www.rootknecht.net](http://www.rootknecht.net)<br/>
+[supersu@rootknecht.net](http://www.rootkecht.net)<br/>
