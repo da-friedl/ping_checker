@@ -1,0 +1,1 @@
+/home/michael/scripts/ping_checker.rb
