@@ -34,7 +34,7 @@ Ruby Dependencies
 
 Licensing
 ---------
-Copyright (c) 2016 Daniel Friedlmaier &lt;daniel@friedlmaier.net&gt;
+Copyright (c) 2016 Daniel Friedlmaier &lt;daniel@friedlmaier.net&gt;<br/>
 Copyright (c) 2016 Michael Peter &lt;supersu@rootknecht.net&gt;
 
 Author
